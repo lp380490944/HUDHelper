@@ -19,7 +19,7 @@ The original intention of this wrapper is to separate the MBProgressHUD usage fr
   s.homepage         = 'https://github.com/xingheng/HUDHelper'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Will Han' => 'xingheng.hax@qq.com' }
-  s.source           = { :git => 'https://github.com/xingheng/HUDHelper.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/lp380490944/HUDHelper/edit/master/HUDHelper.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '8.0'
 
